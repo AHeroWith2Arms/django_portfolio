@@ -132,7 +132,7 @@ jobs:
           script: |
             cd ${{ secrets.DEPLOY_DIR }}
             
-            cat > .env << 'ENVFILE'
+            sudo cat > .env << 'ENVFILE'
             DEBUG=${{ secrets.DEBUG }}
             SECRET_KEY=${{ secrets.SECRET_KEY }}
             DB_NAME=${{ secrets.DB_NAME }}
