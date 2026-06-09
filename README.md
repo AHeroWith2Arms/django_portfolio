@@ -35,5 +35,5 @@ _____
 - pytest / pytest-django / coverage / flake8 / black для тестов и качества кода
 
 #### Ссылки:
-- [Репозиторий проекта на GitHub](https://github.com/AHeroWith2Arms/Django_Courses_site)
+- [Репозиторий проекта на GitHub](https://github.com/AHeroWith2Arms/django_portfolio)
 - [Детальное описание особенностей и технологий](https://github.com/AHeroWith2Arms/Django_Courses_site/blob/main/FEATURES.md)
